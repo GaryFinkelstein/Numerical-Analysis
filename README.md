@@ -40,3 +40,8 @@ Images of the interpolants:
 ![](Images/Figure_1.png)
 ![](Images/Figure_2.png)
 
+#
+#### Composite Trapezoidal Integration: 
+
+Simple code implementing the trapezoidal method to numerically compute the value of an integral. The built-in python Scipy package is used to check the method for correctness.
+
