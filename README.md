@@ -15,3 +15,4 @@ The Root_Finding_Methods.py file implements Newtons Method, the Secant Method an
 
 ![](Images/Equation_for_roots.png)
 
+Roots are: -5, 10 and -10
