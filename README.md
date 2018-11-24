@@ -13,6 +13,5 @@ Root Finding Methods, Runge-Kutta Method to solve first order ODE's and systems 
 
 The Root_Finding_Methods.py file implements Newtons Method, the Secant Method and the Bisection Method to approximate the roots of the following function:
 
-```
-![f(x) = ](Equation_for_roots.png)
-```
+![](Images/Equation_for_roots.png)
+
