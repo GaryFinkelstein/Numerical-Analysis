@@ -31,3 +31,12 @@ The Classic_Runge_Kutta_SystemODEs.py file uses the classic RK4 method to find a
 
 ![](Images/Equation_RK4_2.png)
 
+#### Interpolating polynomials:
+
+The interpolating_polynomials.py file used Newtons Divided Differences to create a interpolating polynomial for the function 1/(16(x^2) + 1). The runge phenomenon is explored whereby high order interpolants oscillate significantly at the end of a specified interval when using equally spaced nodes. The problem is then mitigated through the use of chebyshev nodes. 
+
+Images of the interpolants:
+
+![](Images/Figure_1.png)
+![](Images/Figure_2.png)
+
