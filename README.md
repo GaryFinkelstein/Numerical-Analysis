@@ -24,3 +24,10 @@ The Classic_Runge_Kutta_FirstOrder_ODE.py file uses the classic RK4 method to fi
 
 ![](Images/Equation_RK4_1.png)
 
+#
+#### Runge Kutta method to solve a coupled system of first order ordinary differential equations:
+
+The Classic_Runge_Kutta_SystemODEs.py file uses the classic RK4 method to find approximations, at equally spaced time points, to the exact solution of the following first order system of ordinary differential equations:  
+
+![](Images/Equation_RK4_2.png)
+
